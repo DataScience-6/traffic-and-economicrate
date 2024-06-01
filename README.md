@@ -24,3 +24,6 @@ Others...<br>
 Github link<br>
 https://github.com/DataScience-6/traffic-and-economicrate<br>
 Kaggle link<br>
+<br>
+Notion<br>
+https://www.notion.so/f57cc24bea1b4a26aa66dd61ed284ca0?pvs=4<br>
