@@ -1,5 +1,5 @@
 # traffic-and-economic-rate
-교통량과 경제 변수들간의 관계. 최종 결과물
+교통량과 경제 변수들간의 관계. 중간 작업물
 
 #
 1. PPT<br>
